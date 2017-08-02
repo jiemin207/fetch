@@ -5,9 +5,9 @@
 
 # 使用方法
 
-1.将目录下 f_content.sql文件导入数据库
-2.修改 filter-dev.properties 数据库配置
-3.进入 start.java启动爬虫项目。
+1. 将目录下 f_content.sql文件导入数据库
+2. 修改 filter-dev.properties 数据库配置
+3. 进入 start.java启动爬虫项目。
 
 # tips
 
